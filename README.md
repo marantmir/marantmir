@@ -1,6 +1,9 @@
-### Hi there 👋
+### Olá, seja bem vindo(a) ao meu GitHub 👋
+
+- 🔭 Atualmente estou trabalhando como analista de processos e ITSM
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white)
+![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
 <!--
 **marantmir/marantmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
