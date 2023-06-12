@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 <!--
 **marantmir/marantmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
