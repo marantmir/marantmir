@@ -1,6 +1,6 @@
 # Olá, seja bem vindo(a) ao meu GitHub 👋
 ## Me chamo Marco Antonio Miranda
-- 🔭 Atualmente trabalhando como analista de processos
+- 🔭 Atualmente trabalhando como analista de qualidade de TI
 - 🌱 Aprendendo Python, GCP, Inglês, Estatística, Análise de Dados, Machine Learning, Pesquisa Operacional e R
 - 👯 Procuro colaborar com conhecimento e experiência adquirida em processos, pessoas e empresas a evoluir, através do entendimento, mapeamento e melhoria de processos.
 - 🤔 Procuro ajuda com oportunidades na área de Dados, com o intuito de me especializar ainda mais e conseguir agregar valor com maior eficiência e eficácia aos negócios.
